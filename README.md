@@ -29,8 +29,6 @@ We recommend that you encrypt your message, using the following public key:
 
 ```
 -----BEGIN PGP PUBLIC KEY BLOCK-----
-Version: Encryption Desktop 10.4.2 (Build 206)
-
 mQENBFszjFEBCAC3xFJpb4/zJ9y0VxtKgkBcb0Qiow1xhLN+8dQNH08pUrULDjXu
 9XNM/ejDFMEHHDMAYG4xnQB/tXaHjiX4+OeUKAp8IOhMQhgzRi/ceZWYEcSBVeTw
 7juUoSuI1ixKLLSdrr+amNtHwpP1hCa7JgMWTf+Brq1PZ2f+5sJ8mSzeIpC9ak6k
