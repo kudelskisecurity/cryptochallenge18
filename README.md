@@ -1,7 +1,7 @@
 For this year's crypto challenge we have 3 stages, but it's on a server which is receiving a lot of empty UDP packets and it sometimes reboots without notice,
 very strange, but IT tells us they are working on it ... Here is how you access the API to query the oracle, good luck!
 
-All challenges can be queried on the API under `cryptochall.ks.kgc.io`. Any submitted characters not in `[a-zA-Z0-9 ]` will generate an error.
+All challenges can be queried on the API under `https://cryptochall.ks.kgc.io` (N.B. it refuses insecure connection). Any submitted characters not in `[a-zA-Z0-9 ]` will generate an error.
 
 To solve the first 2 challenges, you must write a program that creates valid signatures, in order to send the `/win` endpoint the message specified in the `/flag` one. That signed message must be successfully verified by the verification service. Obviously, your program should not just copy a signature received from the signing service, and we've thus blacklisted the winning messages.
 
