@@ -62,6 +62,10 @@ Jzw3VA+2z2MSUhb6U8egYE9uNOwqRBlUBDLR5DjsC2UNKg==
 ## Hints
 Throughout the competition we may drop some hints, so keep your eyes peeled for those.  
 
+Hint 1: The challenges are based on fault attacks and the fault occurs automatically on the server. 
+
+Hint 2: The binaries are provided to help you figure out what algorithms are used by the server.  
+
 # Challenge 1
 
 So, we have a implemented one of the latest well-documented signature algorithm to authenticate our messages. 
