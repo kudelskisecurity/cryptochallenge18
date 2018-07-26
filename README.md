@@ -23,9 +23,10 @@ Please include your code and scripts, as well as a (short) write-up explaining y
 * Challenge 2 Completed
 * Challenge 3 Completed
 
+Include in your message whether or not you'd like your name (or nick) to be published below in our ranking table.  
 Your submission can be sent to our email address `cryptochallenge@kudelskisecurity.com`. 
 
-We recommend that you encrypt your message, using the following public key:
+You can encrypt your message, or attachments, using the following public key:
 
 ```
 -----BEGIN PGP PUBLIC KEY BLOCK-----
@@ -58,6 +59,18 @@ Jzw3VA+2z2MSUhb6U8egYE9uNOwqRBlUBDLR5DjsC2UNKg==
 =L/Hh
 -----END PGP PUBLIC KEY BLOCK-----
 ``` 
+
+## Ranking
+
+This is the ranking, classed by date.
+
+| Challenge N°  | Validation date | Name  |
+| :----: | :-----: | ----- |
+| 1  | 2018-07-24  | Joshua Roys |
+| 3  | 2018-07-24  | Stefan Kölbl |
+| 1  | 2018-07-25  | @mongobug |
+| 1  | 2018-07-25  | Stefan Kölbl |
+
 
 ## Hints
 Throughout the competition we may drop some hints, so keep your eyes peeled for those.  
