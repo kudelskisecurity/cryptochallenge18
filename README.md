@@ -70,6 +70,8 @@ This is the ranking, classed by date.
 | 3  | 2018-07-24  | Stefan Kölbl |
 | 1  | 2018-07-25  | @mongobug |
 | 1  | 2018-07-25  | Stefan Kölbl |
+| 1  | 2018-07-26  | Eric Dangereux |
+| 3  | 2018-07-26  | Charles Guillemet |
 
 
 ## Hints
