@@ -62,18 +62,18 @@ Jzw3VA+2z2MSUhb6U8egYE9uNOwqRBlUBDLR5DjsC2UNKg==
 
 ## Ranking
 
-This is the ranking, classed by date.
+This is the ranking, classed by date. Name in **bold** have solved all 3 challenges, congratulations to them!
 
 | Challenge N°  | Validation date | Name  |
 | :----: | :-----: | ----- |
 | 1  | 2018-07-24  | Joshua Roys |
-| 3  | 2018-07-24  | Stefan Kölbl |
+| 3  | 2018-07-24  | **Stefan Kölbl** |
 | 1  | 2018-07-25  | @mongobug |
-| 1  | 2018-07-25  | Stefan Kölbl |
-| 1  | 2018-07-26  | Donjon - Ledger |
-| 3  | 2018-07-26  | Donjon - Ledger |
-| 2  | 2018-07-28  | Donjon - Ledger |
-| 2  | 2018-07-28  | Stefan Kölbl |
+| 1  | 2018-07-25  | **Stefan Kölbl** |
+| 1  | 2018-07-26  | **Donjon - Ledger** |
+| 3  | 2018-07-26  | **Donjon - Ledger** |
+| 2  | 2018-07-28  | **Donjon - Ledger** |
+| 2  | 2018-07-28  | **Stefan Kölbl** |
 | 3  | 2018-07-29  | Adrien Guinet |
 
 
