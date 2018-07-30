@@ -70,8 +70,11 @@ This is the ranking, classed by date.
 | 3  | 2018-07-24  | Stefan Kölbl |
 | 1  | 2018-07-25  | @mongobug |
 | 1  | 2018-07-25  | Stefan Kölbl |
-| 1  | 2018-07-26  | Eric Dangereux |
-| 3  | 2018-07-26  | Charles Guillemet |
+| 1  | 2018-07-26  | Donjon - Ledger |
+| 3  | 2018-07-26  | Donjon - Ledger |
+| 2  | 2018-07-28  | Donjon - Ledger |
+| 2  | 2018-07-28  | Stefan Kölbl |
+| 3  | 2018-07-29  | Adrien Guinet |
 
 
 ## Hints
