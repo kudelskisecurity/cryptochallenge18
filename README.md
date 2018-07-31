@@ -76,6 +76,8 @@ This is the ranking, classed by date. Name in **bold** have solved all 3 challen
 | 2  | 2018-07-28  | **Stefan Kölbl** |
 | 3  | 2018-07-29  | Adrien Guinet |
 | 3  | 2018-07-30  | @doegox |
+| 1  | 2018-07-30  | Adrien Guinet |
+| 3  | 2018-07-30  | Jérémy Jean |
 
 
 ## Hints
