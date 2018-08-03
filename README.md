@@ -78,6 +78,8 @@ This is the ranking, classed by date. Name in **bold** have solved all 3 challen
 | 3  | 2018-07-30  | @doegox |
 | 1  | 2018-07-30  | Adrien Guinet |
 | 3  | 2018-07-30  | Jérémy Jean |
+| 1  | 2018-08-01  | Lucille Tordella |
+| 1  | 2018-08-01  | Kévin Szkudłapski |
 
 
 ## Hints
