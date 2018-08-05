@@ -82,6 +82,7 @@ This is the ranking, classed by date. Name in **bold** have solved all 3 challen
 | 1  | 2018-08-01  | Kévin Szkudłapski |
 | 3  | 2018-08-04  | Lucille Tordella |
 | 3  | 2018-08-04  | Kévin Szkudłapski |
+| 3  | 2018-08-05  | Zeta Two |
 
 
 ## Hints
