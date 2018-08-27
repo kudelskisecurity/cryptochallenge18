@@ -85,8 +85,7 @@ This is the ranking, classed by date. Name in **bold** have solved all 3 challen
 | 3  | 2018-08-05  | Zeta Two |
 | 2  | 2018-08-07  | **Adrien Guinet** |
 | 1  | 2018-08-07  | Zeta Two |
-
-
+| 1  | 2018-08-17  | Nuno Humberto |
 
 
 ## Hints
